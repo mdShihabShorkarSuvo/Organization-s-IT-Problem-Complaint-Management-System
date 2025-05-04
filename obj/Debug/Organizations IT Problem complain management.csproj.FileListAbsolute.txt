@@ -1,0 +1,97 @@
+E:\Spring 22-23\OBJECT ORIENTED PROGRAMMING 2 [L]\Final Project\Organizations IT Problem complain management\bin\Debug\Organizations IT Problem complain management.exe.config
+E:\Spring 22-23\OBJECT ORIENTED PROGRAMMING 2 [L]\Final Project\Organizations IT Problem complain management\bin\Debug\Organizations IT Problem complain management.exe
+E:\Spring 22-23\OBJECT ORIENTED PROGRAMMING 2 [L]\Final Project\Organizations IT Problem complain management\bin\Debug\Organizations IT Problem complain management.pdb
+E:\Spring 22-23\OBJECT ORIENTED PROGRAMMING 2 [L]\Final Project\Organizations IT Problem complain management\obj\Debug\Organizations IT Problem complain management.csproj.AssemblyReference.cache
+E:\Spring 22-23\OBJECT ORIENTED PROGRAMMING 2 [L]\Final Project\Organizations IT Problem complain management\obj\Debug\Organizations IT Problem complain management.csproj.SuggestedBindingRedirects.cache
+E:\Spring 22-23\OBJECT ORIENTED PROGRAMMING 2 [L]\Final Project\Organizations IT Problem complain management\obj\Debug\Organizations_IT_Problem_complain_management.home_page.resources
+E:\Spring 22-23\OBJECT ORIENTED PROGRAMMING 2 [L]\Final Project\Organizations IT Problem complain management\obj\Debug\Organizations_IT_Problem_complain_management.Properties.Resources.resources
+E:\Spring 22-23\OBJECT ORIENTED PROGRAMMING 2 [L]\Final Project\Organizations IT Problem complain management\obj\Debug\Organizations IT Problem complain management.csproj.GenerateResource.cache
+E:\Spring 22-23\OBJECT ORIENTED PROGRAMMING 2 [L]\Final Project\Organizations IT Problem complain management\obj\Debug\Organizations IT Problem complain management.csproj.CoreCompileInputs.cache
+E:\Spring 22-23\OBJECT ORIENTED PROGRAMMING 2 [L]\Final Project\Organizations IT Problem complain management\obj\Debug\Organizations IT Problem complain management.exe
+E:\Spring 22-23\OBJECT ORIENTED PROGRAMMING 2 [L]\Final Project\Organizations IT Problem complain management\obj\Debug\Organizations IT Problem complain management.pdb
+E:\Spring 22-23\OBJECT ORIENTED PROGRAMMING 2 [L]\Final Project\Organizations IT Problem complain management\obj\Debug\Organizations_IT_Problem_complain_management.user_login.resources
+E:\Spring 22-23\OBJECT ORIENTED PROGRAMMING 2 [L]\Final Project\Organizations IT Problem complain management\obj\Debug\Organizations_IT_Problem_complain_management.user_registration.resources
+E:\Spring 22-23\OBJECT ORIENTED PROGRAMMING 2 [L]\Final Project\Organizations IT Problem complain management\obj\Debug\Organizations_IT_Problem_complain_management.user_form.resources
+E:\Spring 22-23\OBJECT ORIENTED PROGRAMMING 2 [L]\Final Project\Organizations IT Problem complain management\obj\Debug\Organizations_IT_Problem_complain_management.help_req_form.resources
+E:\Spring 22-23\OBJECT ORIENTED PROGRAMMING 2 [L]\Final Project\Organizations IT Problem complain management\obj\Debug\Organizations_IT_Problem_complain_management.admin_form.resources
+E:\Spring 22-23\OBJECT ORIENTED PROGRAMMING 2 [L]\Final Project\Organizations IT Problem complain management\obj\Debug\Organizations_IT_Problem_complain_management.admin_login.resources
+E:\Spring 22-23\OBJECT ORIENTED PROGRAMMING 2 [L]\Final Project\Organizations IT Problem complain management\obj\Debug\Organizations_IT_Problem_complain_management.complaint_history.resources
+E:\Spring 22-23\OBJECT ORIENTED PROGRAMMING 2 [L]\Final Project\Organizations IT Problem complain management\obj\Debug\Organizations_IT_Problem_complain_management.employee_login.resources
+E:\Spring 22-23\OBJECT ORIENTED PROGRAMMING 2 [L]\Final Project\Organizations IT Problem complain management\obj\Debug\Organizations_IT_Problem_complain_management.employee_registration.resources
+E:\Spring 22-23\OBJECT ORIENTED PROGRAMMING 2 [L]\Final Project\Organizations IT Problem complain management\obj\Debug\Organizations_IT_Problem_complain_management.employee_form.resources
+E:\Spring 22-23\OBJECT ORIENTED PROGRAMMING 2 [L]\Final Project\Organizations IT Problem complain management\obj\Debug\Organizations_IT_Problem_complain_management.work_list.resources
+E:\Spring 22-23\OBJECT ORIENTED PROGRAMMING 2 [L]\Mid Term\Organizations IT Problem complain management\obj\Debug\Organizations IT Problem complain management.csproj.AssemblyReference.cache
+E:\Spring 22-23\OBJECT ORIENTED PROGRAMMING 2 [L]\Mid Term\Organizations IT Problem complain management\obj\Debug\Organizations IT Problem complain management.csproj.SuggestedBindingRedirects.cache
+E:\Spring 22-23\OBJECT ORIENTED PROGRAMMING 2 [L]\Mid Term\Organizations IT Problem complain management\obj\Debug\Organizations IT Problem complain management.exe
+E:\Spring 22-23\OBJECT ORIENTED PROGRAMMING 2 [L]\Mid Term\Organizations IT Problem complain management\obj\Debug\Organizations IT Problem complain management.pdb
+E:\Spring 22-23\OBJECT ORIENTED PROGRAMMING 2 [L]\Mid Term\Organizations IT Problem complain management\bin\Debug\Organizations IT Problem complain management.exe.config
+E:\Spring 22-23\OBJECT ORIENTED PROGRAMMING 2 [L]\Mid Term\Organizations IT Problem complain management\bin\Debug\Organizations IT Problem complain management.exe
+E:\Spring 22-23\OBJECT ORIENTED PROGRAMMING 2 [L]\Mid Term\Organizations IT Problem complain management\bin\Debug\Organizations IT Problem complain management.pdb
+E:\Spring 22-23\OBJECT ORIENTED PROGRAMMING 2 [L]\Mid Term\Organizations IT Problem complain management\obj\Debug\Organizations_IT_Problem_complain_management.admin_form.resources
+E:\Spring 22-23\OBJECT ORIENTED PROGRAMMING 2 [L]\Mid Term\Organizations IT Problem complain management\obj\Debug\Organizations_IT_Problem_complain_management.complaint_history.resources
+E:\Spring 22-23\OBJECT ORIENTED PROGRAMMING 2 [L]\Mid Term\Organizations IT Problem complain management\obj\Debug\Organizations_IT_Problem_complain_management.employee_form.resources
+E:\Spring 22-23\OBJECT ORIENTED PROGRAMMING 2 [L]\Mid Term\Organizations IT Problem complain management\obj\Debug\Organizations_IT_Problem_complain_management.employee_registration.resources
+E:\Spring 22-23\OBJECT ORIENTED PROGRAMMING 2 [L]\Mid Term\Organizations IT Problem complain management\obj\Debug\Organizations_IT_Problem_complain_management.help_req_form.resources
+E:\Spring 22-23\OBJECT ORIENTED PROGRAMMING 2 [L]\Mid Term\Organizations IT Problem complain management\obj\Debug\Organizations_IT_Problem_complain_management.Properties.Resources.resources
+E:\Spring 22-23\OBJECT ORIENTED PROGRAMMING 2 [L]\Mid Term\Organizations IT Problem complain management\obj\Debug\Organizations_IT_Problem_complain_management.work_list.resources
+E:\Spring 22-23\OBJECT ORIENTED PROGRAMMING 2 [L]\Mid Term\Organizations IT Problem complain management\obj\Debug\Organizations IT Problem complain management.csproj.GenerateResource.cache
+E:\Spring 22-23\OBJECT ORIENTED PROGRAMMING 2 [L]\Mid Term\Organizations IT Problem complain management\obj\Debug\Organizations IT Problem complain management.csproj.CoreCompileInputs.cache
+E:\Spring 22-23\OBJECT ORIENTED PROGRAMMING 2 [L]\Mid Term\Organizations IT Problem complain management\obj\Debug\Organizations_IT_Problem_complain_management.employee_login.resources
+E:\Spring 22-23\OBJECT ORIENTED PROGRAMMING 2 [L]\Mid Term\Organizations IT Problem complain management\obj\Debug\Organizations_IT_Problem_complain_management.home_page.resources
+E:\Spring 22-23\OBJECT ORIENTED PROGRAMMING 2 [L]\Mid Term\Organizations IT Problem complain management\obj\Debug\Organizations_IT_Problem_complain_management.admin_login.resources
+E:\Spring 22-23\OBJECT ORIENTED PROGRAMMING 2 [L]\Mid Term\Organizations IT Problem complain management\obj\Debug\Organizations_IT_Problem_complain_management.user_form.resources
+E:\Spring 22-23\OBJECT ORIENTED PROGRAMMING 2 [L]\Mid Term\Organizations IT Problem complain management\obj\Debug\Organizations_IT_Problem_complain_management.user_login.resources
+E:\Spring 22-23\OBJECT ORIENTED PROGRAMMING 2 [L]\Mid Term\Organizations IT Problem complain management\obj\Debug\Organizations_IT_Problem_complain_management.user_registration.resources
+E:\Spring 22-23\OBJECT ORIENTED PROGRAMMING 2 [L]\Mid Term\Organizations IT Problem complain management\obj\Debug\Organizations_IT_Problem_complain_management.about_form.resources
+E:\Spring 22-23\OBJECT ORIENTED PROGRAMMING 2 [L]\Mid Term\new Project version 1\Organizations IT Problem complain management\bin\Debug\Organizations IT Problem complain management.exe.config
+E:\Spring 22-23\OBJECT ORIENTED PROGRAMMING 2 [L]\Mid Term\new Project version 1\Organizations IT Problem complain management\bin\Debug\Organizations IT Problem complain management.exe
+E:\Spring 22-23\OBJECT ORIENTED PROGRAMMING 2 [L]\Mid Term\new Project version 1\Organizations IT Problem complain management\bin\Debug\Organizations IT Problem complain management.pdb
+E:\Spring 22-23\OBJECT ORIENTED PROGRAMMING 2 [L]\Mid Term\new Project version 1\Organizations IT Problem complain management\obj\Debug\Organizations IT Problem complain management.csproj.AssemblyReference.cache
+E:\Spring 22-23\OBJECT ORIENTED PROGRAMMING 2 [L]\Mid Term\new Project version 1\Organizations IT Problem complain management\obj\Debug\Organizations IT Problem complain management.csproj.SuggestedBindingRedirects.cache
+E:\Spring 22-23\OBJECT ORIENTED PROGRAMMING 2 [L]\Mid Term\new Project version 1\Organizations IT Problem complain management\obj\Debug\Organizations_IT_Problem_complain_management.about_form.resources
+E:\Spring 22-23\OBJECT ORIENTED PROGRAMMING 2 [L]\Mid Term\new Project version 1\Organizations IT Problem complain management\obj\Debug\Organizations_IT_Problem_complain_management.admin_form.resources
+E:\Spring 22-23\OBJECT ORIENTED PROGRAMMING 2 [L]\Mid Term\new Project version 1\Organizations IT Problem complain management\obj\Debug\Organizations_IT_Problem_complain_management.admin_login.resources
+E:\Spring 22-23\OBJECT ORIENTED PROGRAMMING 2 [L]\Mid Term\new Project version 1\Organizations IT Problem complain management\obj\Debug\Organizations_IT_Problem_complain_management.complaint_history.resources
+E:\Spring 22-23\OBJECT ORIENTED PROGRAMMING 2 [L]\Mid Term\new Project version 1\Organizations IT Problem complain management\obj\Debug\Organizations_IT_Problem_complain_management.employee_form.resources
+E:\Spring 22-23\OBJECT ORIENTED PROGRAMMING 2 [L]\Mid Term\new Project version 1\Organizations IT Problem complain management\obj\Debug\Organizations_IT_Problem_complain_management.employee_login.resources
+E:\Spring 22-23\OBJECT ORIENTED PROGRAMMING 2 [L]\Mid Term\new Project version 1\Organizations IT Problem complain management\obj\Debug\Organizations_IT_Problem_complain_management.employee_registration.resources
+E:\Spring 22-23\OBJECT ORIENTED PROGRAMMING 2 [L]\Mid Term\new Project version 1\Organizations IT Problem complain management\obj\Debug\Organizations_IT_Problem_complain_management.home_page.resources
+E:\Spring 22-23\OBJECT ORIENTED PROGRAMMING 2 [L]\Mid Term\new Project version 1\Organizations IT Problem complain management\obj\Debug\Organizations_IT_Problem_complain_management.help_req_form.resources
+E:\Spring 22-23\OBJECT ORIENTED PROGRAMMING 2 [L]\Mid Term\new Project version 1\Organizations IT Problem complain management\obj\Debug\Organizations_IT_Problem_complain_management.Properties.Resources.resources
+E:\Spring 22-23\OBJECT ORIENTED PROGRAMMING 2 [L]\Mid Term\new Project version 1\Organizations IT Problem complain management\obj\Debug\Organizations_IT_Problem_complain_management.user_form.resources
+E:\Spring 22-23\OBJECT ORIENTED PROGRAMMING 2 [L]\Mid Term\new Project version 1\Organizations IT Problem complain management\obj\Debug\Organizations_IT_Problem_complain_management.user_login.resources
+E:\Spring 22-23\OBJECT ORIENTED PROGRAMMING 2 [L]\Mid Term\new Project version 1\Organizations IT Problem complain management\obj\Debug\Organizations_IT_Problem_complain_management.user_registration.resources
+E:\Spring 22-23\OBJECT ORIENTED PROGRAMMING 2 [L]\Mid Term\new Project version 1\Organizations IT Problem complain management\obj\Debug\Organizations_IT_Problem_complain_management.work_list.resources
+E:\Spring 22-23\OBJECT ORIENTED PROGRAMMING 2 [L]\Mid Term\new Project version 1\Organizations IT Problem complain management\obj\Debug\Organizations IT Problem complain management.csproj.GenerateResource.cache
+E:\Spring 22-23\OBJECT ORIENTED PROGRAMMING 2 [L]\Mid Term\new Project version 1\Organizations IT Problem complain management\obj\Debug\Organizations IT Problem complain management.csproj.CoreCompileInputs.cache
+E:\Spring 22-23\OBJECT ORIENTED PROGRAMMING 2 [L]\Mid Term\new Project version 1\Organizations IT Problem complain management\obj\Debug\Organizations IT Problem complain management.exe
+E:\Spring 22-23\OBJECT ORIENTED PROGRAMMING 2 [L]\Mid Term\new Project version 1\Organizations IT Problem complain management\obj\Debug\Organizations IT Problem complain management.pdb
+E:\Spring 22-23\OBJECT ORIENTED PROGRAMMING 2 [L]\Mid Term\new Project version 1\Organizations IT Problem complain management\obj\Debug\Organizations_IT_Problem_complain_management.assign_emp.resources
+E:\Spring 22-23\OBJECT ORIENTED PROGRAMMING 2 [L]\Mid Term\new Project version 1\Organizations IT Problem complain management\obj\Debug\Organizations_IT_Problem_complain_management.user_details.resources
+E:\Spring 22-23\OBJECT ORIENTED PROGRAMMING 2 [L]\Mid Term\new Project version 1\Organizations IT Problem complain management\obj\Debug\Organizations_IT_Problem_complain_management.emp_details.resources
+E:\Spring 22-23\OBJECT ORIENTED PROGRAMMING 2 [L]\Final Project\final project version 2\Organizations IT Problem complain management\bin\Debug\Organizations IT Problem complain management.exe.config
+E:\Spring 22-23\OBJECT ORIENTED PROGRAMMING 2 [L]\Final Project\final project version 2\Organizations IT Problem complain management\bin\Debug\Organizations IT Problem complain management.exe
+E:\Spring 22-23\OBJECT ORIENTED PROGRAMMING 2 [L]\Final Project\final project version 2\Organizations IT Problem complain management\bin\Debug\Organizations IT Problem complain management.pdb
+E:\Spring 22-23\OBJECT ORIENTED PROGRAMMING 2 [L]\Final Project\final project version 2\Organizations IT Problem complain management\obj\Debug\Organizations IT Problem complain management.csproj.AssemblyReference.cache
+E:\Spring 22-23\OBJECT ORIENTED PROGRAMMING 2 [L]\Final Project\final project version 2\Organizations IT Problem complain management\obj\Debug\Organizations IT Problem complain management.csproj.SuggestedBindingRedirects.cache
+E:\Spring 22-23\OBJECT ORIENTED PROGRAMMING 2 [L]\Final Project\final project version 2\Organizations IT Problem complain management\obj\Debug\Organizations_IT_Problem_complain_management.about_form.resources
+E:\Spring 22-23\OBJECT ORIENTED PROGRAMMING 2 [L]\Final Project\final project version 2\Organizations IT Problem complain management\obj\Debug\Organizations_IT_Problem_complain_management.admin_form.resources
+E:\Spring 22-23\OBJECT ORIENTED PROGRAMMING 2 [L]\Final Project\final project version 2\Organizations IT Problem complain management\obj\Debug\Organizations_IT_Problem_complain_management.admin_login.resources
+E:\Spring 22-23\OBJECT ORIENTED PROGRAMMING 2 [L]\Final Project\final project version 2\Organizations IT Problem complain management\obj\Debug\Organizations_IT_Problem_complain_management.assign_emp.resources
+E:\Spring 22-23\OBJECT ORIENTED PROGRAMMING 2 [L]\Final Project\final project version 2\Organizations IT Problem complain management\obj\Debug\Organizations_IT_Problem_complain_management.complaint_history.resources
+E:\Spring 22-23\OBJECT ORIENTED PROGRAMMING 2 [L]\Final Project\final project version 2\Organizations IT Problem complain management\obj\Debug\Organizations_IT_Problem_complain_management.employee_form.resources
+E:\Spring 22-23\OBJECT ORIENTED PROGRAMMING 2 [L]\Final Project\final project version 2\Organizations IT Problem complain management\obj\Debug\Organizations_IT_Problem_complain_management.employee_login.resources
+E:\Spring 22-23\OBJECT ORIENTED PROGRAMMING 2 [L]\Final Project\final project version 2\Organizations IT Problem complain management\obj\Debug\Organizations_IT_Problem_complain_management.employee_registration.resources
+E:\Spring 22-23\OBJECT ORIENTED PROGRAMMING 2 [L]\Final Project\final project version 2\Organizations IT Problem complain management\obj\Debug\Organizations_IT_Problem_complain_management.emp_details.resources
+E:\Spring 22-23\OBJECT ORIENTED PROGRAMMING 2 [L]\Final Project\final project version 2\Organizations IT Problem complain management\obj\Debug\Organizations_IT_Problem_complain_management.home_page.resources
+E:\Spring 22-23\OBJECT ORIENTED PROGRAMMING 2 [L]\Final Project\final project version 2\Organizations IT Problem complain management\obj\Debug\Organizations_IT_Problem_complain_management.help_req_form.resources
+E:\Spring 22-23\OBJECT ORIENTED PROGRAMMING 2 [L]\Final Project\final project version 2\Organizations IT Problem complain management\obj\Debug\Organizations_IT_Problem_complain_management.Properties.Resources.resources
+E:\Spring 22-23\OBJECT ORIENTED PROGRAMMING 2 [L]\Final Project\final project version 2\Organizations IT Problem complain management\obj\Debug\Organizations_IT_Problem_complain_management.user_details.resources
+E:\Spring 22-23\OBJECT ORIENTED PROGRAMMING 2 [L]\Final Project\final project version 2\Organizations IT Problem complain management\obj\Debug\Organizations_IT_Problem_complain_management.user_form.resources
+E:\Spring 22-23\OBJECT ORIENTED PROGRAMMING 2 [L]\Final Project\final project version 2\Organizations IT Problem complain management\obj\Debug\Organizations_IT_Problem_complain_management.user_login.resources
+E:\Spring 22-23\OBJECT ORIENTED PROGRAMMING 2 [L]\Final Project\final project version 2\Organizations IT Problem complain management\obj\Debug\Organizations_IT_Problem_complain_management.user_registration.resources
+E:\Spring 22-23\OBJECT ORIENTED PROGRAMMING 2 [L]\Final Project\final project version 2\Organizations IT Problem complain management\obj\Debug\Organizations_IT_Problem_complain_management.work_list.resources
+E:\Spring 22-23\OBJECT ORIENTED PROGRAMMING 2 [L]\Final Project\final project version 2\Organizations IT Problem complain management\obj\Debug\Organizations IT Problem complain management.csproj.GenerateResource.cache
+E:\Spring 22-23\OBJECT ORIENTED PROGRAMMING 2 [L]\Final Project\final project version 2\Organizations IT Problem complain management\obj\Debug\Organizations IT Problem complain management.csproj.CoreCompileInputs.cache
+E:\Spring 22-23\OBJECT ORIENTED PROGRAMMING 2 [L]\Final Project\final project version 2\Organizations IT Problem complain management\obj\Debug\Organizations IT Problem complain management.exe
+E:\Spring 22-23\OBJECT ORIENTED PROGRAMMING 2 [L]\Final Project\final project version 2\Organizations IT Problem complain management\obj\Debug\Organizations IT Problem complain management.pdb
